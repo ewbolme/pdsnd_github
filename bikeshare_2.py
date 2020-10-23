@@ -83,6 +83,21 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+def trip_duration_stats(df):
+    """Displays statistics on the total and average trip duration."""
+
+    print('\nCalculating Trip Duration...\n')
+    start_time = time.time()
+
+    # display total travel time
+
+
+    # display mean travel time
+
+
+    print("\nThis took %s seconds." % (time.time() - start_time))
+    print('-'*40)
+
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
@@ -96,21 +111,6 @@ def station_stats(df):
 
 
     # display most frequent combination of start station and end station trip
-
-
-    print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
-
-def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
-
-    print('\nCalculating Trip Duration...\n')
-    start_time = time.time()
-
-    # display total travel time
-
-
-    # display mean travel time
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
