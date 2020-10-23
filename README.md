@@ -1,15 +1,12 @@
-### Date created
-Include the date you created this project and README file.
+### Last Updated
+October 2nd 2020
 
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
+### Version Control 101
+This is a simple project to illustrate the basic functionality of git.
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Based off the template provided by udacity [here](https://github.com/udacity/pdsnd_github)
 
